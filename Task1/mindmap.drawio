@@ -1,0 +1,135 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.0.16 Chrome/132.0.6834.196 Electron/34.2.0 Safari/537.36" version="26.0.16">
+  <diagram name="Страница — 1" id="N4mxJKaKOxdP55Y3_qGQ">
+    <mxGraphModel dx="3053" dy="3227" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="BS-NIE5pTt6jp_GReruJ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BS-NIE5pTt6jp_GReruJ-2" target="BS-NIE5pTt6jp_GReruJ-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BS-NIE5pTt6jp_GReruJ-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BS-NIE5pTt6jp_GReruJ-2" target="BS-NIE5pTt6jp_GReruJ-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BS-NIE5pTt6jp_GReruJ-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BS-NIE5pTt6jp_GReruJ-2" target="BS-NIE5pTt6jp_GReruJ-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BS-NIE5pTt6jp_GReruJ-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BS-NIE5pTt6jp_GReruJ-2" target="BS-NIE5pTt6jp_GReruJ-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BS-NIE5pTt6jp_GReruJ-2" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0.85); font-family: &amp;quot;YS Text&amp;quot;, sans-serif; font-size: 18px; text-align: start; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;Безопасность данных&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="410" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BS-NIE5pTt6jp_GReruJ-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BS-NIE5pTt6jp_GReruJ-3" target="BS-NIE5pTt6jp_GReruJ-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BS-NIE5pTt6jp_GReruJ-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BS-NIE5pTt6jp_GReruJ-3" target="BS-NIE5pTt6jp_GReruJ-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BS-NIE5pTt6jp_GReruJ-3" value="Публичные данные" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BS-NIE5pTt6jp_GReruJ-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="BS-NIE5pTt6jp_GReruJ-4" target="BS-NIE5pTt6jp_GReruJ-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BS-NIE5pTt6jp_GReruJ-4" value="Внутренние данные" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BS-NIE5pTt6jp_GReruJ-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BS-NIE5pTt6jp_GReruJ-5" target="BS-NIE5pTt6jp_GReruJ-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BS-NIE5pTt6jp_GReruJ-5" value="Конфиденциальные данные" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BS-NIE5pTt6jp_GReruJ-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BS-NIE5pTt6jp_GReruJ-6" target="BS-NIE5pTt6jp_GReruJ-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BS-NIE5pTt6jp_GReruJ-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BS-NIE5pTt6jp_GReruJ-6" target="BS-NIE5pTt6jp_GReruJ-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BS-NIE5pTt6jp_GReruJ-6" value="Секретные данные" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BS-NIE5pTt6jp_GReruJ-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BS-NIE5pTt6jp_GReruJ-11" target="BS-NIE5pTt6jp_GReruJ-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BS-NIE5pTt6jp_GReruJ-11" value="&lt;div style=&quot;background-color:#ffffff;color:#080808&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9,8pt;&quot;&gt;&lt;div&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9,8pt;&quot;&gt;Маркетинговые материалы&lt;/pre&gt;&lt;/div&gt;&lt;/pre&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="30" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BS-NIE5pTt6jp_GReruJ-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BS-NIE5pTt6jp_GReruJ-12" target="BS-NIE5pTt6jp_GReruJ-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BS-NIE5pTt6jp_GReruJ-12" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;div style=&quot;background-color:#ffffff;color:#080808&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9,8pt;&quot;&gt;Общедоступная информация на сайте&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="130" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BS-NIE5pTt6jp_GReruJ-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BS-NIE5pTt6jp_GReruJ-17" target="BS-NIE5pTt6jp_GReruJ-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BS-NIE5pTt6jp_GReruJ-17" value="&lt;div style=&quot;background-color:#ffffff;color:#080808&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9,8pt;&quot;&gt;Техническая документация&lt;/pre&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="220" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BS-NIE5pTt6jp_GReruJ-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BS-NIE5pTt6jp_GReruJ-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="820" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BS-NIE5pTt6jp_GReruJ-18" value="&lt;div style=&quot;background-color:#ffffff;color:#080808&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9,8pt;&quot;&gt;Отчеты менеджеров&lt;/pre&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="320" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BS-NIE5pTt6jp_GReruJ-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.01;entryY=0.644;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="BS-NIE5pTt6jp_GReruJ-4" target="BS-NIE5pTt6jp_GReruJ-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BS-NIE5pTt6jp_GReruJ-21" value="&lt;div style=&quot;background-color:#ffffff;color:#080808&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9,8pt;&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9,8pt;&quot;&gt;&lt;div&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9,8pt;&quot;&gt;Данные о будущих скидках/подорожаниях&lt;/pre&gt;&lt;/div&gt;&lt;/pre&gt;&lt;/pre&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="520" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BS-NIE5pTt6jp_GReruJ-22" value="&lt;div style=&quot;background-color:#ffffff;color:#080808&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9,8pt;&quot;&gt;&lt;div&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9,8pt;&quot;&gt;ФИО&lt;/pre&gt;&lt;/div&gt;&lt;/pre&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="430" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BS-NIE5pTt6jp_GReruJ-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.032;entryY=0.444;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="BS-NIE5pTt6jp_GReruJ-5" target="BS-NIE5pTt6jp_GReruJ-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BS-NIE5pTt6jp_GReruJ-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BS-NIE5pTt6jp_GReruJ-27" target="BS-NIE5pTt6jp_GReruJ-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BS-NIE5pTt6jp_GReruJ-27" value="&lt;div style=&quot;background-color:#ffffff;color:#080808&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9,8pt;&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9,8pt;&quot;&gt;&lt;div&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9,8pt;&quot;&gt;Планы развития компании&lt;/pre&gt;&lt;/div&gt;&lt;/pre&gt;&lt;/pre&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="660" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BS-NIE5pTt6jp_GReruJ-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BS-NIE5pTt6jp_GReruJ-28" target="BS-NIE5pTt6jp_GReruJ-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BS-NIE5pTt6jp_GReruJ-28" value="&lt;div style=&quot;background-color:#ffffff;color:#080808&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9,8pt;&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9,8pt;&quot;&gt;&lt;div&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9,8pt;&quot;&gt;Пароли, ключи шифрования&lt;/pre&gt;&lt;/div&gt;&lt;/pre&gt;&lt;/pre&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="770" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BS-NIE5pTt6jp_GReruJ-31" value="&lt;div style=&quot;background-color:#ffffff;color:#080808&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9,8pt;&quot;&gt;&lt;span style=&quot;color:#0033b3;&quot;&gt;- &lt;/span&gt;утечка данных - незначительный&lt;br&gt;&lt;span style=&quot;color:#0033b3;&quot;&gt;- &lt;/span&gt;потеря данных - незначительный&lt;br&gt;&lt;span style=&quot;color:#0033b3;&quot;&gt;- &lt;/span&gt;искажение данных - значительный&lt;br&gt;&lt;span style=&quot;color:#0033b3;&quot;&gt;- &lt;/span&gt;некачественные данные - незначительный&lt;br&gt;&lt;span style=&quot;color:#0033b3;&quot;&gt;- &lt;/span&gt;обесценивание данных - незначительный&lt;/pre&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="827" y="-550" width="320" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="BS-NIE5pTt6jp_GReruJ-32" value="&lt;div style=&quot;background-color:#ffffff;color:#080808&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9,8pt;&quot;&gt;&lt;span style=&quot;color:#0033b3;&quot;&gt;- &lt;/span&gt;утечка данных - незначительный&lt;br&gt;&lt;span style=&quot;color:#0033b3;&quot;&gt;- &lt;/span&gt;потеря данных - незначительный&lt;br&gt;&lt;span style=&quot;color:#0033b3;&quot;&gt;- &lt;/span&gt;искажение данных - значительный&lt;br&gt;&lt;span style=&quot;color:#0033b3;&quot;&gt;- &lt;/span&gt;некачественные данные - незначительный&lt;br&gt;&lt;span style=&quot;color:#0033b3;&quot;&gt;- &lt;/span&gt;обесценивание данных - незначительный&lt;/pre&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="-280" width="320" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="BS-NIE5pTt6jp_GReruJ-36" value="&lt;div style=&quot;background-color:#ffffff;color:#080808&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9,8pt;&quot;&gt;&lt;div&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9,8pt;&quot;&gt;&lt;span style=&quot;color:#0033b3;&quot;&gt;- &lt;/span&gt;утечка данных - значительный&lt;br&gt;&lt;span style=&quot;color:#0033b3;&quot;&gt;- &lt;/span&gt;потеря данных - значительный&lt;br&gt;&lt;span style=&quot;color:#0033b3;&quot;&gt;- &lt;/span&gt;искажение данных - значительный&lt;br&gt;&lt;span style=&quot;color:#0033b3;&quot;&gt;- &lt;/span&gt;некачественные данные - значительный&lt;br&gt;&lt;span style=&quot;color:#0033b3;&quot;&gt;- &lt;/span&gt;обесценивание данных - незначительный&lt;/pre&gt;&lt;/div&gt;&lt;/pre&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="827" y="-20" width="320" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="BS-NIE5pTt6jp_GReruJ-37" value="&lt;div style=&quot;background-color:#ffffff;color:#080808&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9,8pt;&quot;&gt;&lt;div&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9,8pt;&quot;&gt;&lt;span style=&quot;color:#0033b3;&quot;&gt;- &lt;/span&gt;утечка данных - критический&lt;br&gt;&lt;span style=&quot;color:#0033b3;&quot;&gt;- &lt;/span&gt;потеря данных - критический&lt;br&gt;&lt;span style=&quot;color:#0033b3;&quot;&gt;- &lt;/span&gt;искажение данных - критический&lt;br&gt;&lt;span style=&quot;color:#0033b3;&quot;&gt;- &lt;/span&gt;некачественные данные - критический&lt;br&gt;&lt;span style=&quot;color:#0033b3;&quot;&gt;- &lt;/span&gt;обесценивание данных - критический&lt;/pre&gt;&lt;/div&gt;&lt;/pre&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="827" y="930" width="320" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="BS-NIE5pTt6jp_GReruJ-40" value="&lt;div style=&quot;background-color:#ffffff;color:#080808&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9,8pt;&quot;&gt;&lt;div&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9,8pt;&quot;&gt;&lt;span style=&quot;color:#0033b3;&quot;&gt;- &lt;/span&gt;утечка данных - критический&lt;br&gt;&lt;span style=&quot;color:#0033b3;&quot;&gt;- &lt;/span&gt;потеря данных - критический&lt;br&gt;&lt;span style=&quot;color:#0033b3;&quot;&gt;- &lt;/span&gt;искажение данных - критический&lt;br&gt;&lt;span style=&quot;color:#0033b3;&quot;&gt;- &lt;/span&gt;некачественные данные - критический&lt;br&gt;&lt;span style=&quot;color:#0033b3;&quot;&gt;- &lt;/span&gt;обесценивание данных - незначительный&lt;/pre&gt;&lt;/div&gt;&lt;/pre&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="827" y="440" width="320" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="BS-NIE5pTt6jp_GReruJ-41" value="&lt;div style=&quot;background-color:#ffffff;color:#080808&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9,8pt;&quot;&gt;&lt;div&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9,8pt;&quot;&gt;&lt;span style=&quot;color:#0033b3;&quot;&gt;- &lt;/span&gt;утечка данных - критический&lt;br&gt;&lt;span style=&quot;color:#0033b3;&quot;&gt;- &lt;/span&gt;потеря данных - критический&lt;br&gt;&lt;span style=&quot;color:#0033b3;&quot;&gt;- &lt;/span&gt;искажение данных - критический&lt;br&gt;&lt;span style=&quot;color:#0033b3;&quot;&gt;- &lt;/span&gt;некачественные данные - критический&lt;br&gt;&lt;span style=&quot;color:#0033b3;&quot;&gt;- &lt;/span&gt;обесценивание данных - незначительный&lt;/pre&gt;&lt;/div&gt;&lt;/pre&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="660" width="320" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="BS-NIE5pTt6jp_GReruJ-42" value="&lt;div style=&quot;background-color:#ffffff;color:#080808&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9,8pt;&quot;&gt;&lt;div&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9,8pt;&quot;&gt;&lt;span style=&quot;color:#0033b3;&quot;&gt;- &lt;/span&gt;утечка данных - значительный&lt;br&gt;&lt;span style=&quot;color:#0033b3;&quot;&gt;- &lt;/span&gt;потеря данных - значительный&lt;br&gt;&lt;span style=&quot;color:#0033b3;&quot;&gt;- &lt;/span&gt;искажение данных - значительный&lt;br&gt;&lt;span style=&quot;color:#0033b3;&quot;&gt;- &lt;/span&gt;некачественные данные - значительный&lt;br&gt;&lt;span style=&quot;color:#0033b3;&quot;&gt;- &lt;/span&gt;обесценивание данных - незначительный&lt;/pre&gt;&lt;/div&gt;&lt;/pre&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="827" y="210" width="320" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="BS-NIE5pTt6jp_GReruJ-43" value="&lt;div style=&quot;background-color:#ffffff;color:#080808&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9,8pt;&quot;&gt;&lt;div&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9,8pt;&quot;&gt;&lt;span style=&quot;color:#0033b3;&quot;&gt;- &lt;/span&gt;утечка данных - критический&lt;br&gt;&lt;span style=&quot;color:#0033b3;&quot;&gt;- &lt;/span&gt;потеря данных - критический&lt;br&gt;&lt;span style=&quot;color:#0033b3;&quot;&gt;- &lt;/span&gt;искажение данных - критический&lt;br&gt;&lt;span style=&quot;color:#0033b3;&quot;&gt;- &lt;/span&gt;некачественные данные - незначительный&lt;br&gt;&lt;span style=&quot;color:#0033b3;&quot;&gt;- &lt;/span&gt;обесценивание данных - незначительный&lt;/pre&gt;&lt;/div&gt;&lt;/pre&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="827" y="1180" width="320" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="BS-NIE5pTt6jp_GReruJ-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.534;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="BS-NIE5pTt6jp_GReruJ-22" target="BS-NIE5pTt6jp_GReruJ-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BS-NIE5pTt6jp_GReruJ-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.001;entryY=0.472;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="BS-NIE5pTt6jp_GReruJ-21" target="BS-NIE5pTt6jp_GReruJ-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
